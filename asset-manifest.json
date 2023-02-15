@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-recurring-job-demo/static/css/main.e6c13ad2.css",
+    "main.js": "/react-recurring-job-demo/static/js/main.eba90dfd.js",
+    "static/js/787.af651b89.chunk.js": "/react-recurring-job-demo/static/js/787.af651b89.chunk.js",
+    "index.html": "/react-recurring-job-demo/index.html",
+    "main.e6c13ad2.css.map": "/react-recurring-job-demo/static/css/main.e6c13ad2.css.map",
+    "main.eba90dfd.js.map": "/react-recurring-job-demo/static/js/main.eba90dfd.js.map",
+    "787.af651b89.chunk.js.map": "/react-recurring-job-demo/static/js/787.af651b89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.eba90dfd.js"
+  ]
+}
